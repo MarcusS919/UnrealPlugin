@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ProximityLight.cpp.obj": [
+			"ProxiLight.cpp.obj",
+			"ProximityLight.cpp.obj"
+		],
+		"Module.ProximityLight.gen.cpp.obj": [
+			"ProxiLight.gen.cpp.obj",
+			"ProximityLight.init.gen.cpp.obj"
+		]
+	}
+}

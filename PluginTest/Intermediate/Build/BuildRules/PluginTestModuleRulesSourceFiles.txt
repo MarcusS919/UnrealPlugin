@@ -1,0 +1,4 @@
+E:\CAPSTONE\PluginTest\Source\PluginTest\PluginTest.Build.cs
+E:\CAPSTONE\PluginTest\Plugins\ProximityLight\Source\ProximityLight\ProximityLight.Build.cs
+E:\CAPSTONE\PluginTest\Source\PluginTest.Target.cs
+E:\CAPSTONE\PluginTest\Source\PluginTestEditor.Target.cs

@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ProximityLight-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\CAPSTONE\PluginTest\Intermediate\Build\Win64\PluginTestEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"E:\CAPSTONE\PluginTest\Plugins\ProximityLight\Intermediate\Build\Win64\UE4Editor\Development\ProximityLight\Module.ProximityLight.cpp.obj"
+"E:\CAPSTONE\PluginTest\Plugins\ProximityLight\Intermediate\Build\Win64\UE4Editor\Development\ProximityLight\Module.ProximityLight.gen.cpp.obj"
+"E:\CAPSTONE\PluginTest\Plugins\ProximityLight\Intermediate\Build\Win64\UE4Editor\Development\ProximityLight\Default.rc2.res"
+/OUT:"E:\CAPSTONE\PluginTest\Plugins\ProximityLight\Intermediate\Build\Win64\UE4Editor\Development\ProximityLight\UE4Editor-ProximityLight-0002.lib"
+/INCLUDE:IMPLEMENT_MODULE_ProximityLight

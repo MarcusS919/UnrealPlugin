@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PluginTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9A3660E3-2CA5-479F-BBCC-35D558C1B0F5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PluginTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PluginTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{39FD9CC4-8CBA-4763-A565-55BDF2A5100A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PluginTest">
+      <UniqueIdentifier>{E471736D-0AD0-423A-9175-8A4081CCC771}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PluginTest\PluginTest.Build.cs">
+      <Filter>Source\PluginTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PluginTest\PluginTest.cpp">
+      <Filter>Source\PluginTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PluginTest\PluginTest.h">
+      <Filter>Source\PluginTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PluginTest\PluginTestCharacter.cpp">
+      <Filter>Source\PluginTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PluginTest\PluginTestCharacter.h">
+      <Filter>Source\PluginTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PluginTest\PluginTestGameMode.cpp">
+      <Filter>Source\PluginTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PluginTest\PluginTestGameMode.h">
+      <Filter>Source\PluginTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

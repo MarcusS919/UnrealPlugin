@@ -1,0 +1,13 @@
+E:\CAPSTONE\PluginTest\Intermediate\Build\Win64\UE4Editor\Development\PluginTest\Definitions.PluginTest.h
+e:\capstone\plugintest\source\plugintest\PluginTestGameMode.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+E:\CAPSTONE\PluginTest\Intermediate\Build\Win64\UE4Editor\Inc\PluginTest\PluginTestGameMode.generated.h
+e:\capstone\plugintest\source\plugintest\PluginTestCharacter.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+E:\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+E:\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+E:\CAPSTONE\PluginTest\Intermediate\Build\Win64\UE4Editor\Inc\PluginTest\PluginTestCharacter.generated.h

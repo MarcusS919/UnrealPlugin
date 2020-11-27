@@ -1,0 +1,2 @@
+E:\CAPSTONE\PluginProject\Plugins\ProximityLight\Intermediate\Build\Win64\UE4Editor\Development\ProximityLight\Definitions.ProximityLight.h
+E:\CAPSTONE\PluginProject\Plugins\ProximityLight\Source\ProximityLight\Public\ProximityLight.h
